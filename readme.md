@@ -1,6 +1,6 @@
  :sunglasses: crispy-succotash is the best!!!  
  
- #Thanksgiving  
+#Thanksgiving  
  Cookies  
  Pies  
  Cake  
